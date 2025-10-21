@@ -1,5 +1,5 @@
 ## 👋 Hi I'm Haroon
-🎓 I am a second year Computer Science studnet.
+I am a second year Computer Science studnet.
 I’m currently seeking a 2026 placement in software development or web development where I can apply my technical skills and contribute to real-world projects while continuing to learn and grow as a developer.
 
 <!--
